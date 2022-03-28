@@ -40,6 +40,8 @@ body {
     text-decoration: none;
 }
 
+/* The styling for the hero banner                                                         *
+ * The image is rendered in the stylesheet because it's easier to properly scale the image */
 .hero {
     height: 800px;
     width: 100%;
@@ -73,6 +75,7 @@ body {
     font-size: 16px;
 }
 
+/* The styling for the divs in the .benefits section specifying their margin and float. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,6 +85,7 @@ body {
     margin-left: 25px;
 }
 
+/* The benefits cascade for styling the company's benfit incentives on the page. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
